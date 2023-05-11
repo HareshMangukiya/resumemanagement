@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958103961977",
+    "project_id": "resume-1793e",
+    "storage_bucket": "resume-1793e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958103961977:android:0161bc8a26edde51e22fa8",
+        "android_client_info": {
+          "package_name": "com.example.resumemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958103961977-kkuso0g8tmlq6vj92qf3m39ct3aopn2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZoNIm9dCeRq_ivkSK2Qw79Q7zYAR-pa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958103961977-kkuso0g8tmlq6vj92qf3m39ct3aopn2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
